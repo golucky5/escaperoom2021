@@ -1,0 +1,42 @@
+<!doctype html> 
+<html lang="en">
+
+     
+        <title>jQuery Drag Blank Quiz (draggable fill-in-the-blank) Quiz Plugin Demo</title> 
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8"> 
+        <link href="example.css" media="all" rel="stylesheet" type="text/css" /> 
+         
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> 
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script> 
+        <script type="text/javascript" src="jquery.drag-blank-quiz.js"></script> 
+
+        <script type="text/javascript"> 
+         
+            $(document).ready(function(){
+                $('.quiz').dragBlankQuiz();
+            });
+         
+        </script> 
+     
+    </head> 
+    <body> 
+     
+
+   <div class="quiz" data-fake-answers='[ "IT Department", "Password"]'>
+
+            <ol class="qs">
+		
+                <li>Information security is the responsibility of: <span class="quiz-answer">Everyone in the agency</span>.</li>
+				<li> <span class="quiz-answer">Spear phishing</span> is an email targeted at a specific individual or department within an organization that appears to be from a trusted source.</li>
+				<li>Your passwords should be easy to remember and hard to guess, which of the following is an example of strong password?<span class="quiz-answer">$ayN02#ackers</span></li>
+				<li>Personal Identifiable Information (PII) is used to verify your identity and distinguish one person from another. Which of the following is an example of PII?<span class="quiz-answer">Date of Birth</span></li>
+            </ol>
+            
+        </div>
+
+       
+     
+     
+    </body> 
+</html> 
+ 
