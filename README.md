@@ -1,5 +1,5 @@
-# Vulnerable Mama Shop
-A simple docker application for learning SQL Injection
+# 2021 Escape room
+A simple docker application for learning SQL Injection built around an escape room.
 
 ## Introduction
 
