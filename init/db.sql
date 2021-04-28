@@ -100,7 +100,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'David','Luna','S9830887T','dluna@mytestinternet.com.sg','secretagent0'),(2,'David','Shen','S8911009K','dsheng@newinternettest.sg','hiddenvalue-0'),(3,'Miguel','Olivas','T0377668Z','molivas0@bht-int15.com.sg','password0'),(4,'Sophia','Shelton','S7769118C','sshelton@itesting.com.sg','test1234'),(5,'Dallas','Turner','T1634009D','dturner@test.network.sg','P@ssw0rd'),(6,'Lance','Leatherwood','S8497001B','jleatherwood@h0menet.sg','b@tty-0987');
+INSERT INTO `users` VALUES (1,'David','Luna','S9830887T','dluna@twc.state.tx.us','secretagent0'),(2,'David','Shen','S8911009K','dsheng@gmail.com','hiddenvalue-0'),(3,'Miguel','Olivas','T0377668Z','molivas0@howtointernet.com.sg','password0'),(4,'Sophia','Shelton','S7769118C','sshelton@jedi.com.sg','test1234'),(5,'Dallas','Turner','T1634009D','dturner@skype.com','P@ssw0rd'),(6,'Lance','Leatherwood','S8497001B','jleatherwood@aol.com','b@tty-0987');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
