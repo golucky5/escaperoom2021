@@ -29,12 +29,12 @@ To run it interactively
 
     docker run -it --rm -p 8000:80 goucky5/escaperoom2021
 
-This will make Mamashop available at http://localhost:8000 or http://[ip address]:8000
+This will make escaperoom2021 available at http://localhost:8000 or http://[ip address]:8000
 
-Do not expose Vulnerable Mama Shop to the internet, it is an insecure application and can lead to a system or network compromise. 
+Do not expose escaperoom2021 to the internet, it is an insecure application and can lead to a system or network compromise. 
 Use it in an isolated test lab environment meant for security testing and learning. 
  
-To run Vulnerable Mama Shop in detached mode
+To run escaperoom2021 in detached mode
 
     docker run -d --rm -p 8000:80  goucky5/escaperoom2021
     
