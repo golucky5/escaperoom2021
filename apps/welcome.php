@@ -54,8 +54,10 @@
         <h1>TWC Virtual Escape Room 2021</h1>
         <p class="h5">This is an instructional website only</p>
         <br>
-        <p class="lead">Welcome.  
-This is TWC's 2021 Virtual Escape Room. We are hoping that you learn a little more about exploits, vulnerabilities, passwords, and a little about databases.  This is a timed event.  You have 20 minutes to complete a series of challenges.  
+        <p class="lead">Welcome to TWC's 2021 Virtual Escape Room. 
+		You have voleenteered to become part of a special group.  You are now part of the Safety Cyber Security Incident Resopne Team or Safety sissors.  
+		We are hoping that you learn a little more about exploits, vulnerabilities, passwords, and a little about databases.  This is a timed event.  
+		You have 20 minutes to complete a series of challenges.  
 </p> 
 <p class="lead">
 Start with challenge 1, and complete them sequentially.   Each challenge will give you a clue to complete the big challenge, and then to the final challenge. </p> 
