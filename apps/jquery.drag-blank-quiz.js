@@ -51,7 +51,7 @@
             messageRemoveOptions      : {},
             messageRemoveSpeed        : 200,
             showScoreOnComplete       : true,
-            scoreMessagePattern       : 'Quiz complete! You made %SCORE% incorrect guesses.  </br></br>The passcode for the next task is <br><h1>protect</h1> <br> <a href="file:///C:/escaperoom/task%203%20-%20gone%20fishing/pass.html">Click here to move to Task 3</a>',
+            scoreMessagePattern       : 'Quiz complete! You made %SCORE% incorrect guesses.  </br></br>copy the sql injetion below<br><h1>union select firstname, password, email from users</h1> <br> <a href="file:///C:/escaperoom/task%203%20-%20gone%20fishing/pass.html">Click here to move to Task 3</a>',
             fakeAnswers               : null,
             dropHandler               : handleDrop,
             onCorrect                 : onCorrect,
