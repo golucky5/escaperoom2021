@@ -55,7 +55,7 @@
         <p class="h5">This is an instructional website only</p>
         <br>
         <p class="lead">Welcome to TWC's 2021 Virtual Escape Room. 
-		You have voleenteered to become part of a special group.  You are now part of the Safety Cyber Security Incident Response Squad (CSIRS) pronounced Safety sissors.  
+		You have voleenteered to become part of a special group.  You are now part of the <b>Safety</b> <b>C</b>yber <b>S</b>ecurity <b>I</b>ncident <b>R</b>esponse <b>S</b>quad (CSIRS) pronounced Safety sissors.  
 		We are hoping that you learn a little more about exploits, vulnerabilities, passwords, and a little about databases.  This is a timed event.  
 		You have 20 minutes to complete a series of challenges.  
 </p> 
