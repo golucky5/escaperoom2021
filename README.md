@@ -27,7 +27,7 @@ Change into the directory and build using docker
 
 To run it interactively
 
-    docker run -it --rm -p 8000:80 goucky5/escaperoom2021
+    docker run -it --rm -p 8000:80 golucky5/escaperoom2021
 
 This will make escaperoom2021 available at http://localhost:8000 or http://[ip address]:8000
 
@@ -36,7 +36,7 @@ Use it in an isolated test lab environment meant for security testing and learni
  
 To run escaperoom2021 in detached mode
 
-    docker run -d --rm -p 8000:80  goucky5/escaperoom2021
+    docker run -d --rm -p 8000:80  golucky5/escaperoom2021
     
 Note the mariadb database is restored each time the docker container is started up.     
 
